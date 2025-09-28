@@ -1,19 +1,20 @@
-# Libft: My Own C Library <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="40" height="40" />
+# Libft: Your very first own library <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="40" height="40" />
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" title="C"/><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" title="linux"/>
 
 ---
 ## Overview
 **This project** is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.
-| Key Information | Detail |
+
+| Program name | libft.a |
 | :--- | :--- |
-| **Project Type** | C Library |
-| **Program Name** | [cite_start]`libft.a` [cite: 48] |
-| **Turn In Files** | [cite_start]`Makefile`, `libft.h`, `ft_*.c` [cite: 48] |
-| **Language** | [cite_start]C (must be Norm-compliant) [cite: 23, 24] |
-| **Compiler Flags** | [cite_start]`-Wall`, `-Wextra`, `-Werror` [cite: 29, 56] |
+| **Turn in files** | `Makefile`, `libft.h`, `ft_*.c` |
+| **Makefile** | `NAME`, `all`, `clean`, `fclean`, `re` |
+| **External functs** | Detailed below |
+| **Libft authorized** | n/a |
+| **Description** | Write your own library: a collection of functions<br> that will be a useful tool for your cursus |
 
 ---
-
+## Libc functions
 <table>
   <tr>
     <td rowspan="7">
@@ -145,6 +146,8 @@
     <td>Allocates memory and sets to zero (uses malloc).</td>
   </tr>
 </table>
+
+
 
 ---
 
