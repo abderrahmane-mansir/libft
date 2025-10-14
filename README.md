@@ -1,3 +1,9 @@
+# 1337 Coding School
+
+<img width="150" src="https://myapi.um6p.ma/sites/default/files/2025-05/UM6P_1337.png" title="1337"/>
+<img width="150" src="https://pbs.twimg.com/profile_images/1470324396095066120/t8F5Ai57_400x400.jpg" title="1337"/>
+
+
 # Libft: Your very first own library <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="40" height="40" />
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" title="C"/><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1012px-Tux.svg.png" title="linux"/>
 
